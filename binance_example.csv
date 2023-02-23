@@ -1,0 +1,7 @@
+User_Id,Time,Category,Operation,Order_Id,Transaction_Id,Primary_Asset,Realized_Amount_For_Primary_Asset,Realized_Amount_For_Primary_Asset_In_USD_Value,Base_Asset,Realized_Amount_For_Base_Asset,Realized_Amount_For_Base_Asset_In_USD_Value,Quote_Asset,Realized_Amount_For_Quote_Asset,Realized_Amount_For_Quote_Asset_In_USD_Value,Fee_Asset,Realized_Amount_For_Fee_Asset,Realized_Amount_For_Fee_Asset_In_USD_Value,Payment_Method,Withdrawal_Method,Additional_Note
+75232450,2022-01-05 09:57:37,Distribution,Staking Rewards,150089213710,821512148,ALGO,10.52535336,16.41846500,"","","","","","","","","",Wallet,"",""
+75232450,2022-01-07 16:20:02,Withdrawal,Crypto Withdrawal,893355128,893352048,ADA,82.50000000,99.95261100,"","","","","","",ADA,1.00000000,1.21154700,Wallet,Wallet,""
+75232450,2022-01-12 02:02:56,Deposit,USD Deposit,18d2e5c720c047f1b262da3562c3c1a4,230550750,USD,100.00000000,100.00000000,"","","","","","",USD,0E-8,0E-8,ACH,"",""
+75232450,2022-01-12 02:03:02,Buy,Buy,2bdc7327e72c41bcaff6399c4b243d3c,405320516,"","","",USD,100.00000000,100.00000000,RVN,1052.90982357,108.33330200,USD,0.50000000,0.50000000,ACH,"",""
+75232450,2022-04-20 01:57:11,Sell,Sell,2e18c3c3b03f4b629962cc12fc3044ee,1067815645,"","","",LINK,32.88000000,461.11039600,USD,462.36240000,462.36240000,USD,2.32000000,2.32000000,Wallet,"",""
+75232450,2022-08-23 14:33:38,Convert,Convert,1238272872567171577,3465229,"","","",ETH,1.67841523,2790.81832200,USD,2719.62010000,2719.62010000,USD,34.58780000,34.58780000,Wallet,"",""
