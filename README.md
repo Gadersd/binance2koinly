@@ -26,7 +26,7 @@ where:
 
 For example:
 
-    python b2k.py ~/Downloads/Binance-US-Transactions-2022.csv ~/Documents/Koinly-Transactions-2022.csv
+    python b2k.py binance_example.csv koinly_example.csv
 
 Once the script has finished running, you can import the output CSV file into Koinly.
 
